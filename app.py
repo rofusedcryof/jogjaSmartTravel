@@ -178,7 +178,7 @@ import time
 # 1. SETTING & STYLE
 st.set_page_config(
     page_title="SISTEM REKOMENDASI PAKET PERJALANAN WISATA AREA JOGJA ",
-    page_icon="🗻",
+    page_icon="icon.png",
     layout="wide",
     initial_sidebar_state="expanded"
 )
