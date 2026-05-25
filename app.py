@@ -401,7 +401,7 @@ def main():
     # TAB 2: MAP
     with tab_map:
         st.subheader("Sebaran Lokasi Wisata Yogyakarta")
-        st.write("Titik di bawah ini memetakan seluruh data koordinat (latitude & longitude) dari dataset Anda.")
+        st.write("Titik di bawah ini memetakan seluruh data koordinat (latitude & longitude) dari dataset.")
         st.map(destinasi[['lat', 'lon']])
 
     #TAB 3: ANALISIS
