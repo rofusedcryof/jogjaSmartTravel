@@ -423,7 +423,7 @@ def main():
             st.plotly_chart(fig_scatter, use_container_width=True)
 
     st.divider()
-    st.markdown("<center>JogjaSmart Travel v1.0 © 2026 - Backend Powered by @cyberwarehouse.care (Hybrid AI Engine)</center>", unsafe_allow_html=True)
+    st.markdown("<center>JogjaSmart Travel v1.0 © 2026 - Created by @cyberwarehouse.care (Hybrid AI Engine)</center>", unsafe_allow_html=True)
 
 if __name__ == "__main__":
     main()
