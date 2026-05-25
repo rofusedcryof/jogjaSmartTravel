@@ -218,6 +218,9 @@ st.set_page_config(
 
 st.markdown("""
     <style>
+    header {visibility: hidden;}
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
     /* 1. BAGIAN KOTAK METRIK (STATISTIK PENCARIAN) */
     [data-testid="stMetricValue"], [data-testid="stMetricLabel"] { 
         color: #1E3A8A !important; /* Warna teks angka dan label (Biru Gelap) */
